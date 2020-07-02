@@ -5,7 +5,7 @@ From the team that brought you <a href="https://hostifi.net" target="_blank">Hos
 
 Raspberry Pi audio alerts for Stripe events
 
-Demo: [![](http://img.youtube.com/vi/GcjIZyMuT_w/0.jpg)](http://www.youtube.com/watch?v=GcjIZyMuT_w "")
+[![](http://img.youtube.com/vi/GcjIZyMuT_w/0.jpg)](http://www.youtube.com/watch?v=GcjIZyMuT_w "")
 
 I noticed a trend on a Twitter - people like to post screenshots of their Stripe notifications blowing up with payments on launch day. It's a great feeling when months of hard work pays off and the internet rains money upon you. Now you can get that same dopamine rush but with customizable sound effects like "ka-ching" or Drake lyrics.
 
