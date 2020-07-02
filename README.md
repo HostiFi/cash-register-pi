@@ -22,7 +22,7 @@ This was tested on a Raspberry Pi 2 B, but should work on others.
 
 cd /home/pi
 
-git clone https://github.com/reillychase/cash-register-pi.git
+git clone https://github.com/HostiFi/cash-register-pi.git
 
 pip3 install stripe
 
