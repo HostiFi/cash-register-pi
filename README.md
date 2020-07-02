@@ -50,3 +50,7 @@ CTRL+X then y to save
 
 # Troubleshooting
 Check /var/log/cash-register-pi.log for any errors
+
+# Feature Wishlist
+- OLED display with total $ counts for today, this month, and this year
+- Set sounds/jackpot.mp3 to trigger based on a configurable daily threshold like $1,000
