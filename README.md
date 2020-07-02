@@ -34,7 +34,7 @@ mv config.ini.example config.ini
 
 nano config.ini
 
-## Configure logging and cronjob
+## Configure logging and cron
 
 6. Set up a cronjob to check for new Stripe events every minute:
 
