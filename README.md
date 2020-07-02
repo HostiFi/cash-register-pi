@@ -36,7 +36,7 @@ nano config.ini
 
 ## Configure logging and cron
 
-6. Set up a cronjob to check for new Stripe events every minute:
+6. Set up a cronjob to check for new Stripe events every minute and log errors:
 
 sudo touch /var/log/cash-register-pi.log
 
