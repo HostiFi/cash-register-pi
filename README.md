@@ -24,7 +24,7 @@ This was tested on a Raspberry Pi 2 B, but should work on others.
 
 ## Install Cash Register Pi
 
-5. Open a terminal and run the following commands, make sure to set your Stripe API key in config.ini:
+5. Open a terminal and run the following commands, make sure to set your Stripe API key in config.ini. For best security, create a new, restricted API key in Stripe which only has read access to Events.
 
 cd /home/pi
 
