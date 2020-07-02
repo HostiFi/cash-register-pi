@@ -2,6 +2,9 @@
 From the team that brought you <a href="https://hostifi.net" target="_blank">HostiFi</a>, introducing...
 
 # Cash Register Pi
+
+Raspberry Pi audio alerts for Stripe events
+
 I noticed a trend on a Twitter - people like to post screenshots of their Stripe notifications blowing up with payments on launch day. It's a great feeling when months of hard work pays off and the internet rains money upon you. Now you can get that same dopamine rush but with customizable sound effects like "ka-ching" or Drake lyrics.
 
 # Installation Instructions
