@@ -1,5 +1,6 @@
 <p align="center"><img src="https://raw.githubusercontent.com/HostiFi/cash-register-pi/master/cash-register-pi.png"></p>
 From the team that brought you <a href="https://hostifi.net" target="_blank">HostiFi</a>, introducing...
+
 # Cash Register Pi
 Raspberry Pi audio alerts for Stripe events
 
