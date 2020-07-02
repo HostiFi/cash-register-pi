@@ -1,3 +1,5 @@
+![Cash Register Pi](https://github.com/HostiFi/cash-register-pi/cash-register-pi.png)
+
 # Cash Register Pi
 Raspberry Pi audio alerts for Stripe events
 
