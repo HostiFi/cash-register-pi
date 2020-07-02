@@ -7,7 +7,7 @@ For those of us who have online businesses, money is just a number moving over t
 
 Cash Register Pi will play sounds/ka-ching.mp3 for each new charge.succeeded event, and sounds/squad-goin-up.mp3 for each new customer.subscription.created event.
 
-# Installation instructions
+# Installation Instructions
 This was tested on a Raspberry Pi 2 B, but should work on others.
 
 1. Install "Raspberry Pi OS (32-bit) with desktop and recommended software" from https://www.raspberrypi.org/downloads/raspberry-pi-os/
