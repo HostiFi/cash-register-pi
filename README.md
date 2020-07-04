@@ -34,6 +34,8 @@ cd cash-register-pi
 
 pip3 install stripe
 
+pip3 install gTTS
+
 mv config.ini.example config.ini
 
 nano config.ini
